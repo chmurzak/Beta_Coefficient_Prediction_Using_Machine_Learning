@@ -1,0 +1,1 @@
+# Zastosowanie-wybranych-algorytm-w-uczenia-maszynowego-do-symulacji-zmian-warto-ci-wsp-czynnika-Beta
