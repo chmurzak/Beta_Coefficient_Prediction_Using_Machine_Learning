@@ -2,7 +2,8 @@
 
 ## TODO
 
-* model dla sieci neurnowych
+* model dla regresji liniowej (done)
+* model dla sieci neurnowych (done)
 * model dla lasów losowych
 * model dla wektorów
 
@@ -15,3 +16,7 @@ W overleafie:
 * algorytm na wyliczanie beta i opis
 * podział danych
 * opis modeli i błędów (np.RSE w regresji liniowej)
+
+Pytania:
+
+* Co z betami: jakie okna czasowe? jakie interwały? co z dywidendami? splitami?
