@@ -4,8 +4,8 @@
 
 * model dla regresji liniowej (done)
 * model dla sieci neurnowych (done)
-* model dla lasów losowych
-* model dla wektorów
+* model dla lasów losowych (done)
+* model dla wektorów (done)
 
 W overleafie:
 
