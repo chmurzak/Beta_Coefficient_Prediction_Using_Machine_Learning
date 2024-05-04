@@ -11,9 +11,9 @@ W overleafie:
 
 * dlaczego beta jesgt taka a nie inna skąd może to wynikać
 * wady beta (bo widze że przydałoby się opisać czemu coś śrendio wychodzi)
-* wykorzystywane narzedzia i dlaczego taki wybór: język programowania biblioteki
+* wykorzystywane narzedzia i dlaczego taki wybór: język programowania biblioteki (done)
 * opisanie danych (kolumn) (done)
-* algorytm na wyliczanie beta i opis
+* algorytm na wyliczanie beta i opis (done)
 * podział danych
 * opis modeli i błędów (np.RSE w regresji liniowej)
 
