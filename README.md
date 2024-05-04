@@ -16,7 +16,7 @@ W overleafie:
 * algorytm na wyliczanie beta i opis (done)
 * podział danych (done)
 * opis algorytmu regresji liniowej (done)
-* opis sieci neuronowych
+* opis sieci neuronowych (done)
 * opis svm
 * opis lasów losowcyh
 * opis błędów (done)
