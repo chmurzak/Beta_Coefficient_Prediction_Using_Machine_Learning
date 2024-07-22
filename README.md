@@ -14,10 +14,10 @@ This project focuses on predicting the Beta coefficient of companies from the WI
 
 The first step in our project involved collecting historical data for the companies Pekao, KGHM, and CCC, along with the WIG20 index. The data was sourced from reliable financial databases to ensure the accuracy and integrity of our analysis.
 
-- **Pekao Data**: [https://stooq.pl/q/d/?s=peo](#)
-- **KGHM Data**: [https://stooq.pl/q/d/?s=kgh](#)
-- **CCC Data**: [(https://stooq.pl/q/d/?s=ccc)](#)
-- **WIG20 Index Data**: [(https://stooq.pl/q/d/?s=wig20)](#)
+- **Pekao Data**: [https://stooq.pl/q/d/?s=peo](https://stooq.pl/q/d/?s=peo)
+- **KGHM Data**: [https://stooq.pl/q/d/?s=kgh](https://stooq.pl/q/d/?s=kgh)
+- **CCC Data**: [https://stooq.pl/q/d/?s=ccc](https://stooq.pl/q/d/?s=ccc)
+- **WIG20 Index Data**: [https://stooq.pl/q/d/?s=wig20](https://stooq.pl/q/d/?s=wig20)
 
 ---
 
